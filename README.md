@@ -2,4 +2,4 @@
 Android app for music streaming
 
 
-Ovay kely ity readme ity
+Ilay documentation lesy mba amboary kely eh
